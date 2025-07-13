@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="resolution_items">
+        <item>auto</item>
+        <item>75dpi</item>
+        <item>150dpi</item>
+        <item>300dpi</item>
+        <item>600dpi</item>
+    </string-array>
+    <string-array name="mode_items">
+        <item>auto</item>
+        <item>彩色</item>
+        <item>黑白</item>
+        <item>线条（影印）</item>
+    </string-array>
+    <string-array name="type_items">
+        <item>png</item>
+        <item>jpeg</item>
+<!--        <item>pdf(不支持预览)</item>-->
+    </string-array>
+</resources>
